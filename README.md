@@ -53,12 +53,41 @@ Algunos ejemplos de Lenguaje de Programación de Alto Nivel podría, ser:
 
 # -Forma de Ejecución:
 
-Los procesadores de los ordenadores son capaces de entender y actuar según lo indican programas escritos en lenguaje de máquina
+Los procesadores de los ordenadores son capaces de entender y actuar según lo indican programas escritos en lenguaje de máquina.
+
+Todo programa puede ser ejecutado de 3 maneras:
+
+## -Compilado:
+
+Antes de poder utilizarse el programa debe utilizarse un traductor llamado **"Compilador"** que se encarga de traducir el programa original al programa equivalente ecrito en lenguaje de máquina.
+
+Algunos ejemplos de **_Lenguajes Compilados_**:
+
+* **HASKELL:** Los programas escritos en Haskell se representan siempre como funciones matemáticas, pero estas funciones nunca tienen efectos secundarios ni derivados.
+
+* **C++:** es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese manipular objetos.
+
+* **COBOL:** un lenguaje de programación basado en el idioma inglés que lleva más de medio siglo sustentando todo tipo de operaciones como sistemas financieros, por ejemplo.
 
 
+## -Interpretado:
+
+Es aquel que el código fuente se ejecuta directamente, instrucción a instrucción, es decir, que el código no pasa por un proceso de compilación, sino que tenemos un programa llamado **intérprete** que lee la instrucción en tiempo real, y la ejecuta.
+
+Como ejemplo de **_Lenguajes Interpretados_** tenemos:
+
+* **MATLAB:** es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio.
+
+* **PHP:** es un lenguaje de programación destinado a desarrollar aplicaciones para la web y crear páginas web, favoreciendo la conexión entre los servidores y la interfaz de usuario.
 
 
+## -Virtuales:
 
+Son lenguajes más portables que los lenguajes compilados puesto que el código que se genera tras la compilación es un código intermedio o bytecode. Este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo. 
+
+El ejemplo de los **_Lenguajes Virtuales_** son:
+
+* **JAVA** (anteriormente explicado)
 
 
 
