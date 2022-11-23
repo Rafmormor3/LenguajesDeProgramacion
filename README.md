@@ -130,6 +130,14 @@ En este modelo de paradigma se construyen modelos de objetos que representan ele
 
 Ejemplos de lenguajes de programación orientados a objetos serían Java, Python o C#.
 
+## -Paradigma lógico 
+
+Este paradigma se basa en los conceptos de lógica matemática, se basa predicados que caracterizan o relacionan a los individuos involucrados y la deducción de las posibles respuestas a una determinada consulta.
+
+## -Paradigma funcional
+
+Se basa en un conjunto de funciones que pueden ser evaluadas para obtener un resultado. El paradigma funcional está basado en conceptos matematicos.
+El resultado de este tipo de paradigma se obtiene sustituyendo esos argumentos en el cuerpo de la función respetando el nombre que se les dio a cada uno.
 
 
 
