@@ -91,6 +91,46 @@ El ejemplo de los **_Lenguajes Virtuales_** son:
 
 ---
 
+# -Paradigma:
+
+Un paradigma de programación es un estilo de programación de software. Se trata de un conjunto de métodos sistemáticos aplicables en todos los niveles del diseño de programas. Existen diferentes formas de diseñar un lenguaje de programación y varios modos de trabajar para obtener los resultados que necesitan los programadores.
+
+Los lenguajes de programación adoptan uno o varios paradigmas en función del tipo de órdenes dadas para solucionar ese problema, incluso pueden ser multiparadigmas, como Python.
+
+Existen 6 tipos de paradigmas:
+
+## -Paradigmas Imperativos:
+
+Consiste en ordenes concretas dadas por el programador para el correcto funcionamiento del programa.
+
+El **paradigma imperativo** tambien tiene otros enfoques subordinados a este:
+
+* **Programacion Estructurada:** el flujo de control es definido por condicionales y bucles.
+
+* **Programacion Modular:** este tipo de lenguaje es utilizado para solucionar problemas mas complejos, dividiendo el programa en modulos para hacerlo mas manejable.
+
+Entre los principales lenguajes que utilizan este paradigma nos encontramos a COBOL, C, C++.
+
+## -Paradigmas Declarativos:
+
+Este paradigma no definie algoritmos puesto que describe el problema en lugar de encontrar una solución al mismo. Utiliza el principio del razonamiento lógico para responder a preguntas o cuestiones consultadas.
+
+Este paradigma, además se divide en dos:
+
+* **Programación Lógica:** Prolog
+* **Programación funcional:** Lisp, Scala, Java, Kotlin
+
+## -Paradigmas Procedimentales:
+
+Este tipo de paradigma se enfoca mas en una programacion logica y funcional, basandose en repetir en menor numero de expresiones, englobarlas en funciones y con llamada a estas en caso de ejecución.
+
+## -Programacion orientada a objetos:
+
+En este modelo de paradigma se construyen modelos de objetos que representan elementos del problema a resolver, que tienen características y funciones. Puede separar los componentes de un programa por lo que simplifica todos sus procesos, además disminuye los errores. Podemos definir un objeto como una estructura abstracta que, de manera más fiable, describe un posible objeto del mundo real y su relación con el resto del mundo que lo rodea a través de interfaces.
+
+Ejemplos de lenguajes de programación orientados a objetos serían Java, Python o C#.
+
+
 
 
 
