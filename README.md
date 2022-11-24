@@ -149,7 +149,7 @@ Este paradigma se basa en los conceptos de lógica matemática, se basa predicad
 Se basa en un conjunto de funciones que pueden ser evaluadas para obtener un resultado. El paradigma funcional está basado en conceptos matematicos.
 El resultado de este tipo de paradigma se obtiene sustituyendo esos argumentos en el cuerpo de la función respetando el nombre que se les dio a cada uno.
 
-
+![][img_fun]
 
 
 
@@ -162,3 +162,4 @@ El resultado de este tipo de paradigma se obtiene sustituyendo esos argumentos e
 [imagen1]:https://piperlab.es/wp-content/uploads/2020/09/lenguajes-de-programacion.jpg
 [poli]:https://www.genome.gov/es/genetics-glossary/Polimorfismo#:~:text=%E2%80%8BPolimorfismo&text=El%20polimorfismo%2C%20en%20lo%20que,entre%20diferentes%20personas%20o%20poblaciones.
 [encap]:https://datascientest.com/es/encapsulacion-definicion-e-importancia#:~:text=La%20encapsulaci%C3%B3n%20es%20un%20mecanismo,no%20sean%20los%20servicios%20propuestos.
+[img_fun]:https://i.blogs.es/e0bc04/function-io/840_560.png
