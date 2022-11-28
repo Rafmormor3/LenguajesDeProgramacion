@@ -37,9 +37,9 @@ En este nivel tenemos como ejemplo principal:
 * **LENGUAJE _C_:** este puede acceder a registros del sistema y direcciones de memoria, todas propias de lenguajes de bajo nivel.
 
  *CODIGO LENGUAJE C:*
- ![lenguajeC](https://raw.githubusercontent.com/Rafmormor3/LenguajesDeProgramacion/master/Gifs/LenguajeC.gif)
+ ![lenguajeC](https://raw.githubusercontent.com/Rafmormor3/LenguajesDeProgramacion/main/Gifs/codigoC.gif)
  *EJECUTABLE ATRAVÉS DE LA TERMINAL*
- ![lenguajeCTerminal](https://raw.githubusercontent.com/Rafmormor3/LenguajesDeProgramacion/master/Gifs/Ejecutable.gif)
+ ![lenguajeCTerminal](https://raw.githubusercontent.com/Rafmormor3/LenguajesDeProgramacion/main/Gifs/termianlC.gif)
 
 
 ## -Alto Nivel:
