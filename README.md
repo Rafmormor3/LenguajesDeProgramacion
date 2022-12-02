@@ -72,6 +72,9 @@ Algunos ejemplos de **_Lenguajes Compilados_**:
 
 * **C++:** es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese manipular objetos.
 
+![c++](https://raw.githubusercontent.com/Rafmormor3/LenguajesDeProgramacion/master/Gifs/TipoC%2B%2B.gif)
+
+
 * **COBOL:** un lenguaje de programación basado en el idioma inglés que lleva más de medio siglo sustentando todo tipo de operaciones como sistemas financieros, por ejemplo.
 
 
@@ -134,6 +137,15 @@ Este tipo de paradigma se enfoca mas en una programacion logica y funcional, bas
 En este modelo de paradigma se construyen modelos de objetos que representan elementos del problema a resolver, que tienen características y funciones. Puede separar los componentes de un programa por lo que simplifica todos sus procesos, además disminuye los errores. Podemos definir un objeto como una estructura abstracta que, de manera más fiable, describe un posible objeto del mundo real y su relación con el resto del mundo que lo rodea a través de interfaces.
 
 Ejemplos de lenguajes de programación orientados a objetos serían Java, Python o C#.
+- CLASE BANCO JAVA ORIENTADO A OBJETOS:
+
+![EJE1](https://raw.githubusercontent.com/Rafmormor3/LenguajesDeProgramacion/master/Gifs/ClaseBancoJava.png)
+- MAINAPP DEL EJERCICIO:
+
+![EJE2](https://raw.githubusercontent.com/Rafmormor3/LenguajesDeProgramacion/master/Gifs/MainAppJava.png)
+- EJECUCIÓN DEL MAINAPP:
+
+![EJE3](https://raw.githubusercontent.com/Rafmormor3/LenguajesDeProgramacion/master/Gifs/EjecucionJavaOO.png)
 
 La programación orientada a objetos se sirve de diferentes conceptos como:
 
