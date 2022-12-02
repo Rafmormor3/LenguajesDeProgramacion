@@ -121,7 +121,7 @@ Entre los principales lenguajes que utilizan este paradigma nos encontramos a CO
 
 ## -Paradigmas Declarativos:
 
-Este paradigma no definie algoritmos puesto que describe el problema en lugar de encontrar una solución al mismo. Utiliza el principio del razonamiento lógico para responder a preguntas o cuestiones consultadas.
+Este paradigma no define algoritmos puesto que describe el problema en lugar de encontrar una solución al mismo. Utiliza el principio del razonamiento lógico para responder a preguntas o cuestiones consultadas.
 
 Este paradigma, además se divide en dos:
 
