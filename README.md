@@ -1,7 +1,7 @@
 # Lenguajes de Programacion
 ---
 ## ¿Qué son los Lenguajes de Programación?
-Los _Lenguajes de Programación_ , simplemente, sonel conjunto de instrucciones que le proporcionamos a un ordenador para interactuar con ellos.
+Los _Lenguajes de Programación_ , simplemente, son el conjunto de instrucciones que le proporcionamos a un ordenador para interactuar con ellos.
 Los lenguajes de programación permiten a las computadoras procesar de forma rápida y eficientemente grandes y complejas cantidades de información.
 
 Como por ejemplo, si le dieramos una gran lista de números aleatorios, gracias a los _Lenguajes de Programación_, podríamos ordenarla en cuestión de segundo, en cambio si lo hicieramos nosotros mismos nos llevaria más tiempo. 
